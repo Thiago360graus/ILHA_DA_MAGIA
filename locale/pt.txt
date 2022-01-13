@@ -1,0 +1,26 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = DEMO ILHA DA MAGIA
+
+## Media
+
+### Title
+panorama_44B03D7C_4EFB_A7D6_41C5_2B00155BB668.label = LOJA ILHA DA MAGIA...01...
+panorama_47515E7F_4EFB_65D3_41D3_7146B449155F.label = LOJA ILHA DA MAGIA
+video_523ABF6F_4F18_A3F2_41D2_67F0DBF13CBA.label = 270218908_921599932081854_4177060964421484864_n
+
+## Popup
+
+### Body
+htmlText_51CA008A_4F6B_5D3D_41A6_B22033DEABFD.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_5492F8D1_4F19_ED2F_4131_AA2A191B50EC.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_5A9B60C5_4EEF_5D37_41D2_80C9CAA3CF24.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+### Title
+window_51DDB41C_4F69_6555_4199_C3DEADC729BB.title = CLIQUE NO X PARA FECHAR
+window_6E1A327A_4F6F_DDDD_41C5_78CFD0447142.title = CLIQUE NO X PARA FECHAR
