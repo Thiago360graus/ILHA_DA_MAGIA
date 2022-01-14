@@ -24,3 +24,11 @@ htmlText_5A9B60C5_4EEF_5D37_41D2_80C9CAA3CF24.html = <div style="text-align:left
 ### Title
 window_51DDB41C_4F69_6555_4199_C3DEADC729BB.title = CLIQUE NO X PARA FECHAR
 window_6E1A327A_4F6F_DDDD_41C5_78CFD0447142.title = CLIQUE NO X PARA FECHAR
+
+## Action
+
+### URL
+LinkBehaviour_53C807DE_5B3E_CB2D_41C8_95EDF9FA2FD6.source = https://www.facebook.com/JohnnieJackBar
+LinkBehaviour_53C827DE_5B3E_CB2D_41C9_6DA38C777CFB.source = https://www.instagram.com/johnniejackbar/
+LinkBehaviour_53C857DE_5B3E_CB2D_41D2_2B5700618F3D.source = //www.youtube.com/embed/kCrHIM-LT1E
+LinkBehaviour_53C867DE_5B3E_CB2D_41D4_519F9B0A0B43.source = https://api.whatsapp.com/send/?phone=5553991244664
